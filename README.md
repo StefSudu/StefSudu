@@ -23,7 +23,7 @@ I'm a **Full Stack Engineer**, leveraging:
 - 🛡️ **Tech Stack**: React Native, Expo, TypeScript, Firebase  
 
 #### 🌟 Overview  
-- **Basic Goal**: A fitness app designed to create a personalized training experience for users.  
+- **Basic Goal**: A fitness app designed to create a personalised training experience for users.  
 - **MVP Features**:  
   - User sign-up/sign-in functionality  
   - Custom workout creation  
