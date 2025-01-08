@@ -19,7 +19,7 @@ I'm a **Full Stack Engineer**, leveraging:
 - 🛠️ **System Design**
  
 ### 📂 Current Project  
-**Mobile Application Development**  
+**Mobile App**  
 - 🛡️ **Tech Stack**: React Native, Expo, TypeScript, Firebase  
 - **Basic Goal**: A fitness app designed to create a personalised training experience for users.  
 - **MVP Features**:  
