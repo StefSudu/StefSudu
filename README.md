@@ -26,11 +26,5 @@ I'm a **Full Stack Engineer**, leveraging:
 - **Basic Goal**: A fitness app designed to create a personalised training experience for users.  
 - **MVP Features**:  
   - User sign-up/sign-in functionality  
-  - Custom workout creation  
-
-#### 🏃 Current Sprint: Sprint 4  
-- 🚀 **Tasks**:  
-  - Set up a loading screen  
-  - Improve the sign-up flow for a smoother user experience  
-  - Add functionality to the index screen  
-  - Enable users to create and log custom workouts
+  - Custom workout creation
+  - Select an ai coach and plan
