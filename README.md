@@ -10,10 +10,6 @@ I'm a **Full Stack Engineer**, leveraging:
 
 ## 🚀 I'm working on...
 
-### General  
-- 🧠 **Data Structures & Algorithms (DSA)**  
-- 🛠️ **System Design**
- 
 ### Current Project  
 **Mobile App**  
 - 🛡️ **Tech Stack**: React Native, Expo, TypeScript, Firebase  
